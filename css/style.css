@@ -3,9 +3,7 @@ display: flex;
 background-color: rgb(red, green, blue);
 
 }
-.nav-link:hover{
-    color: #2c8d88;
-}
+
 .logo{
     display: inline-block;
     width: 150px;
@@ -46,6 +44,9 @@ background-color: rgb(red, green, blue);
 .nav-link{
    
     color: saddlebrown;
+    font-size: 16px;
+    margin: 3px;
+    font-weight: 500;
 }
 
 .carousel-caption {
