@@ -20,13 +20,13 @@ background-color: rgb(red, green, blue);
 
 .carousel-item{
     
-    min-height: 300px;
+    min-height: 100px;
     background: no-repeat scroll center scroll;
     -webkit-background-size:cover;
     background-size:cover;
     background-color: black;
     overflow:hidden ;
-    max-height: 90vh;
+    max-height: 110vh;
 }
 
 .carousel-item img{
