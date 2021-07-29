@@ -15,9 +15,6 @@ background-color: rgb(red, green, blue);
 }
 
 
-
-
-
 .carousel-item{
     
     min-height: 100px;
@@ -27,6 +24,16 @@ background-color: rgb(red, green, blue);
     background-color: black;
     overflow:hidden ;
     max-height: 110vh;
+}
+.carousel-team{
+    
+    min-height: 20px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-color: black;
+    overflow:hidden ;
+    max-height: 50vh;
 }
 
 .carousel-item img{
